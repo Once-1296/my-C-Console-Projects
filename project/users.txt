@@ -1,0 +1,7 @@
+name,email,password,username,contact
+awwab,awwab@gmail.com,wadekar,once342,9987965492
+krrish,krrish@yahoo.com,shda,shad,9976433214
+adee,adee234@gmail.com,alootikka,chubby,2345123400
+sajid,sajid@gmail.com,awwab,bestdad,971507029618
+aadil,aadilnaik@gmail.com,papaya,tallguy,1223456789012
+rayyan,rayyan@yahoo.com,mapari,cousin,2345678
